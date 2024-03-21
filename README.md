@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>- research on evaluating state-of-the-art LLMs for high performance computing code generation<br>- training a model to predict RNA secondary structure<br><br>🤝 I’m seeking opportunties in:<br>Software Engineering, Data Science, and AI/ML Internship roles<br><br>🌱 I’m currently learning:<br>LLMs/Generative AI, React.js, Node.js, Express.js, MongoDB, Reinforcement Learning<br><br>🏄 My hobbies include:<br>tennis, basketball, reading, hitting the gym<br><br>💬 Ask me about:<br>My favorite basketball team
+🔭 I’m currently working on:<br>- research involving evaluating state-of-the-art LLMs for high performance computing code generation<br>- training a model to predict RNA secondary structure<br><br>🤝 I’m seeking opportunties in:<br>Software Engineering, Data Science, and AI/ML Internship roles<br><br>🌱 I’m currently learning:<br>LLMs/Generative AI, React.js, Node.js, Express.js, MongoDB, Reinforcement Learning<br><br>🏄 My hobbies include:<br>tennis, basketball, reading, hitting the gym<br><br>💬 Ask me about:<br>My favorite basketball team
 
 
 ## 🌐 Socials:
