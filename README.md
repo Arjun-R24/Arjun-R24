@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>- research focusing on leveraging the AdaBoost algorithm with LLM ensembles to enhance weak-to-strong generalization and AI alignment<br><br>🤝 I’m seeking opportunties in:<br>Software Engineering (Backend/Infra), AI/ML, and Data Science<br><br>🏄 My hobbies include:<br>tennis, basketball, reading, hitting the gym<br><br>💬 Ask me about:<br>My favorite basketball team
+🔭 I’m currently working on:<br>research focusing on leveraging the AdaBoost algorithm with LLM ensembles to enhance weak-to-strong generalization and AI alignment<br><br>🤝 I’m seeking opportunties in:<br>Software Engineering (Backend/Infra), AI/ML, and Data Science<br><br>🏄 My hobbies include:<br>tennis, basketball, reading, hitting the gym<br><br>💬 Ask me about:<br>My favorite basketball team
 
 
 ## 🌐 Socials:
