@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>- an AI/ML software egineering internship at Capital One, building an ML-powered recommendation engine to improve data retention and purging decision-making<br>- research focusing on evaluating state-of-the-art LLMs for high performance computing and parallel code generation<br><br>🤝 I’m seeking opportunties in:<br>Software Engineering, Data Science, and AI/ML Internship roles<br><br>🌱 I’m currently learning:<br>LLMs/Generative AI, Node.js, Express.js, MongoDB<br><br>🏄 My hobbies include:<br>tennis, basketball, reading, hitting the gym<br><br>💬 Ask me about:<br>My favorite basketball team
+🔭 I’m currently working on:<br>- research focusing on leveraging the AdaBoost algorithm with LLM ensembles to enhance weak-to-strong generalization and AI alignment<br><br>🤝 I’m seeking opportunties in:<br>Software Engineering (Backend/Infra), AI/ML, and Data Science<br><br>🏄 My hobbies include:<br>tennis, basketball, reading, hitting the gym<br><br>💬 Ask me about:<br>My favorite basketball team
 
 
 ## 🌐 Socials:
